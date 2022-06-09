@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "171717848520",
+    "project_id": "bd-robot",
+    "storage_bucket": "bd-robot.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:171717848520:android:28f23488f4b958980664fd",
+        "android_client_info": {
+          "package_name": "com.example.infobiz1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "171717848520-u6q64fvqev21g8hn7vh9vsp1egveivd9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBs0CewEIfs4IHI_Ej6xvuyKnqp8o_K5Tc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "171717848520-u6q64fvqev21g8hn7vh9vsp1egveivd9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

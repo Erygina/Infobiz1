@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="AppTheme" parent="@android:style/Theme.Holo.Light">
+        <item name="android:actionBarStyle">@style/MyActionBar</item>
+        <item name="actionBarStyle">@style/MyActionBar</item>
+    </style>
+    <style name="MyActionBar" parent="@android:style/Widget.Holo.Light.ActionBar">
+        <item name="colorPrimary">@color/blueAction</item>
+        <item name="android:textColorPrimary">@string/ActionBar</item>
+        <item name="titleTextColor">@color/white</item>
+        <item name="android:textSize">@dimen/actionBarTextSize</item>
+    </style>
+    <style name="ButtonsStyle">
+        <item name="backgroundTint">@color/blueAction</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="android:textSize">@dimen/actionBarTextSize</item>
+    </style>
+    <style name="textViewStyle">
+        <item name="android:background">@color/blueAction</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="android:textSize">@dimen/text_dimens</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+</resources>

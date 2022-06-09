@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Робототехника</string>
+    <string name="ActionBar">Робототехника</string>
+    <string name="teacher">Учитель</string>
+    <string name="student">Ученик</string>
+    <string name="title_activity_teacher_login">TeacherLoginActivity</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="login_text">Логин</string>
+    <string name="enter_login_text">Введите логин</string>
+    <string name="go_in_text">ВОЙТИ</string>
+    <string name="enter_password_text">Введите пароль</string>
+    <string name="sign_in_text">Зарегистрироваться?</string>
+    <string name="register_text">Зарегистрироваться</string>
+    <string name="confirm_password">Подтвердите пароль</string>
+    <string name="enter_email">Введите почту</string>
+    <string name="progress_text">ДОСТИЖЕНИЯ</string>
+    <string name="progress1_text">1. Мы провели первые соревнования роботов</string>
+    <string name="planned_events_text">Планируемые мероприятия</string>
+    <string name="table_text">Расписание</string>
+    <string name="monday_text">Понедельник</string>
+    <string name="time_text">С 16:00 \n До 17:00</string>
+    <string name="robot_text">Кружок по \n Робототехнике</string>
+    <string name="weekend_text">- ВЫХОДНОЙ</string>
+    <string name="wednesday_text">Среда</string>
+    <string name="thursday_text">Четверг</string>
+    <string name="friday_text">Пятница</string>
+    <string name="saturday_text">Суббота</string>
+    <string name="tuesday_text">Вторник</string>
+</resources>
